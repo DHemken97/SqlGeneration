@@ -1,0 +1,14 @@
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\tester.deps.json
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\tester.runtimeconfig.json
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\tester.runtimeconfig.dev.json
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\tester.dll
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\tester.pdb
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\SQLGenerator.dll
+C:\Users\d1108\source\repos\SQLGenerator\tester\bin\Debug\netcoreapp2.1\SQLGenerator.pdb
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.csprojAssemblyReference.cache
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.csproj.CoreCompileInputs.cache
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.AssemblyInfoInputs.cache
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.AssemblyInfo.cs
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.csproj.CopyComplete
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.dll
+C:\Users\d1108\source\repos\SQLGenerator\tester\obj\Debug\netcoreapp2.1\tester.pdb

@@ -1,0 +1,9 @@
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\bin\Debug\netstandard2.0\SQLGenerator.deps.json
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\bin\Debug\netstandard2.0\SQLGenerator.dll
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.csprojAssemblyReference.cache
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.csproj.CoreCompileInputs.cache
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.AssemblyInfoInputs.cache
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.AssemblyInfo.cs
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\bin\Debug\netstandard2.0\SQLGenerator.pdb
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.dll
+C:\Users\d1108\source\repos\SQLGenerator\SQLGenerator\obj\Debug\netstandard2.0\SQLGenerator.pdb
